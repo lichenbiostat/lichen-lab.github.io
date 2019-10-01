@@ -18,8 +18,7 @@ description: I am a tenure-tracked Assistant Professor in Department of Medicine
 <div class="container">
     <div class="row-fluid">
             Li Chen, Principal Investigator<br/>
-            Assistant Professor, <a href="http://www.auburn.edu/academic/pharmacy/directory/li-chen.html">Department of Health Outcomes Research and Policy, Harrison School of Pharmacy</a><br/>Adjunct Assistant Professor, <a href="http://eng.auburn.edu/directory/lzc0061">Department of Computer Science and Software Engineering, Samuel Ginn College of Engineering</a><br/>
-            Auburn University<br/><br/>
+            Assistant Professor, <a href="">Department of Medicine, Indiana University School of Medicine</a><br/>
     </div>
 </div>
 
