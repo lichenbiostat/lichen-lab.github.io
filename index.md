@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About
-%description: I am a tenure-tracked Assistant Professor in Harrison School of Pharmacy at Auburn University. I am a member of 
-the Omics and Informatics Cluster hire in Auburn University.
+description: I am a tenure-tracked Assistant Professor in Department of Medicine, Indiana University School of Medicine. I am also a member in Center for Computational Biology and Bioinformatics.
 ---
 
 <div class="navbar">
