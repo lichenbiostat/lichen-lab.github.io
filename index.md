@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: I am a tenure-tracked Assistant Professor in Harrison School of Pharmacy at Auburn University. I am a member of 
+%description: I am a tenure-tracked Assistant Professor in Harrison School of Pharmacy at Auburn University. I am a member of 
 the Omics and Informatics Cluster hire in Auburn University.
 ---
 
