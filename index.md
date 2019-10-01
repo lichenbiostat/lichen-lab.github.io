@@ -8,7 +8,7 @@ description: I am a tenure-tracked Assistant Professor in Department of Medicine
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="https://scholar.google.com/citations?user=Nk-yRrcAAAAJ&hl=en">Google Scholar</a></li>
-        <li><a href="http://www.auburn.edu/academic/pharmacy/directory/li-chen.html">Official Website</a></li>
+        <li><a href="">Official Website</a></li>
       </ul>
   </div>
 </div>
@@ -26,18 +26,11 @@ description: I am a tenure-tracked Assistant Professor in Department of Medicine
 
 ###  Biography
 
-I am an Assistant Professor in Harrison School of Pharmacy at Auburn University and also hold an joint appointment as
-an Adjunct Assistant Professor in Department of Computer Science and Software Engineering. I am a member of 
-The Omics and Informatics Cluster Hire in Auburn University. I received a BS from China majoring in Bioinformatics in 2009; a
-MHS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) in 2011, from the
-Johns Hopkins University; another MSE in [Computer Science](https://www.cs.jhu.edu/) in 2011, from the
-Johns Hopkins University. I joined the department right after obtaining my PhD in [Computer Science and Informatics](http://www.mathcs.emory.edu/site/home/) at Emory University in 2017.
-I also interned in CareerBuilder Data Science and Amazon Machine Learning in Summer 2014 and 2015 respectively.
+I am an Assistant Professor in Department of Medicine, Indiana University School of Medicine. I am a member in in Center for Computational Biology and Bioinformatics. Before joining IUSM, I spent two years as an Assistant Professor in Harrison School of Pharmacy at Auburn University. I received a BS from China majoring in Bioinformatics in 2009; a MHS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) in 2011, from the Johns Hopkins University; another MSE in [Computer Science](https://www.cs.jhu.edu/) in 2011, from the Johns Hopkins University. I joined the department right after obtaining my PhD in [Computer Science and Informatics](http://www.mathcs.emory.edu/site/home/) at Emory University in 2017. I also interned in CareerBuilder Data Science and Amazon Machine Learning in Summer 2014 and 2015 respectively.
 
 
 ### Research
-I am interested in data science research with its application in biomedical data especially large-scale omics data and population-based epidemiological data. I am leading a small interdisciplinary data science group that consists of four PhD students in Computer Science, Pharmaceutical Science and Biomedical Science working on bioinformatics
-& biostatistics projects. My current research focuses on developing statistical and informatics methods for analyzing of large-scale omics and population-based epidemiological data. Projects include but not limited to 
+I am interested in data science research with its application in biomedical data especially large-scale omics data and population-based epidemiological data. I am leading a small interdisciplinary data science group working on bioinformatics & biostatistics projects. My current research focuses on developing statistical and informatics methods for analyzing of large-scale omics and population-based epidemiological data. Projects include but not limited to 
 
 - **Epigenomics**: 
 Develop statistical methods and database for epigenomic data in differential biological conditions.
@@ -71,14 +64,13 @@ Develop statistical methods for non-coding RNA.
     <div class="row-fluid">
         <div class="span5">
             Li Chen<br/>
-            <a href="http://www.auburn.edu/academic/pharmacy/horp/faculty.html">Department: Health Outcomes Research and Policy</a><br/>
-            <a href="http://www.auburn.edu">Auburn University</a><br/>
-            <a href="http://www.auburn.edu/academic/pharmacy/">Harrison School of Pharmacy</a><br/>
-            4306f Walker Building <br/>
-            Auburn, AL 36849 <br/>
+            <a href="https://medicine.iu.edu/departments/internal-medicine/">Department of Medicine</a><br/>
+            <a href="https://medicine.iu.edu/">Indiana University School of Medicine</a><br/>
+ 410 W. 10th Street, HS 5025 <br/>
+    Indianapolis, IN 46202<br/>
             USA<br/><br/>
             <div id="hide_email">
-            Email: <code>li.chen@auburn.edu</code><br/>
+            Email: <code>chen61@iu.edu</code><br/>
             </div>
         </div>
 
