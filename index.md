@@ -1,6 +1,6 @@
 ---
 layout: page
-description: I am a tenure-tracked Assistant Professor in Department of Medicine, Indiana University School of Medicine. I am also a member in Center for Computational Biology and Bioinformatics.
+description: I am a tenure-tracked Assistant Professor of Medicine at Indiana University School of Medicine. I am also a member in Center for Computational Biology and Bioinformatics.
 ---
 
 <div class="navbar">
@@ -17,7 +17,7 @@ description: I am a tenure-tracked Assistant Professor in Department of Medicine
 <div class="container">
     <div class="row-fluid">
             Li Chen, Principal Investigator<br/>
-            Assistant Professor, <a href="https://medicine.iu.edu/departments/internal-medicine/specialties/hematology-oncology/faculty/47520/chen-li/">Department of Medicine, Indiana University School of Medicine</a><br/>
+            Assistant Professor of Medicine <a href="https://medicine.iu.edu/departments/internal-medicine/specialties/hematology-oncology/faculty/47520/chen-li/"></a><br/>
 	    Member, <a href="https://medicine.iu.edu/research/centers-institutes/computational-biology-bioinformatics/">Center for Computational Biology and Bioinformatics, Indiana University School of Medicine</a><br/>
     </div>
 </div>
@@ -26,7 +26,7 @@ description: I am a tenure-tracked Assistant Professor in Department of Medicine
 
 ###  Biography
 
-I am an Assistant Professor in Department of Medicine, Indiana University School of Medicine (IUSM). I am a member in in Center for Computational Biology and Bioinformatics. Before joining IUSM, I spent two years as an Assistant Professor in Harrison School of Pharmacy at Auburn University. I received a BS from China majoring in Bioinformatics in 2009; a MHS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) in 2011, from the Johns Hopkins University; another MSE in [Computer Science](https://www.cs.jhu.edu/) in 2011, from the Johns Hopkins University. I joined the department right after obtaining my PhD in [Computer Science and Informatics](http://www.cs.emory.edu/site/home/) at Emory University in 2017. I also interned in CareerBuilder Data Science and Amazon Machine Learning in Summer 2014 and 2015 respectively.
+I am an Assistant Professor of Medicine at Indiana University School of Medicine (IUSM). I am a member in in Center for Computational Biology and Bioinformatics. Before joining IUSM, I spent two years as an Assistant Professor in Harrison School of Pharmacy at Auburn University. I received a BS from China majoring in Bioinformatics in 2009; a MHS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) in 2011, from the Johns Hopkins University; another MSE in [Computer Science](https://www.cs.jhu.edu/) in 2011, from the Johns Hopkins University. I joined the department right after obtaining my PhD in [Computer Science and Informatics](http://www.cs.emory.edu/site/home/) at Emory University in 2017. I also interned in CareerBuilder Data Science and Amazon Machine Learning in Summer 2014 and 2015 respectively.
 
 
 ### Research
