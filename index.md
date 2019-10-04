@@ -17,7 +17,7 @@ description: I am a tenure-tracked Assistant Professor of Medicine at Indiana Un
 <div class="container">
     <div class="row-fluid">
             Li Chen, Principal Investigator<br/>
-            Assistant Professor of Medicine <a href="https://medicine.iu.edu/departments/internal-medicine/specialties/hematology-oncology/faculty/47520/chen-li/"></a><br/>
+            <a href="https://medicine.iu.edu/departments/internal-medicine/specialties/hematology-oncology/faculty/47520/chen-li/">Assistant Professor of Medicine</a><br/>
 	    Member, <a href="https://medicine.iu.edu/research/centers-institutes/computational-biology-bioinformatics/">Center for Computational Biology and Bioinformatics, Indiana University School of Medicine</a><br/>
     </div>
 </div>
