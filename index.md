@@ -26,7 +26,7 @@ description: I am a tenure-track Assistant Professor of Medicine at Indiana Univ
 
 ###  Biography
 
-I am a tenure-track Assistant Professor of Medicine and a member in Center for Computational Biology and Bioinformatics at Indiana University School of Medicine (IUSM). Before joining IUSM, I spent two years as an Assistant Professor in Harrison School of Pharmacy at Auburn University. I received a BS from China majoring in Bioinformatics in 2009; a MHS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) in 2011, from the Johns Hopkins University; another MSE in [Computer Science](https://www.cs.jhu.edu/) in 2011, from the Johns Hopkins University. After that, I obtained my PhD in [Computer Science and Informatics](http://www.cs.emory.edu/site/home/) at Emory University in 2017. I also interned in CareerBuilder Data Science and Amazon Machine Learning in Summer 2014 and 2015 respectively.
+I am a tenure-track Assistant Professor of Medicine and a member in Center for Computational Biology and Bioinformatics at Indiana University School of Medicine (IUSM). Before joining IUSM, I spent two years as an Assistant Professor in Harrison School of Pharmacy at Auburn University. I received a BS from China majoring in Bioinformatics in 2009; a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University in 2011 respectively. After that, I obtained my PhD in [Computer Science and Informatics](http://www.cs.emory.edu/site/home/) at Emory University in 2017. I also interned in CareerBuilder Data Science and Amazon Machine Learning in Summer 2014 and 2015 respectively.
 
 
 ### Research
