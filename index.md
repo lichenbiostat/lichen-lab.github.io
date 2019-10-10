@@ -7,7 +7,7 @@ description: I am a tenure-track Assistant Professor of Medicine at Indiana Univ
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="https://scholar.google.com/citations?user=Nk-yRrcAAAAJ&hl=en">Google Scholar</a></li>
-        <li><a href="">Official Website</a></li>
+        <li><a href="https://medicine.iu.edu/departments/internal-medicine/specialties/hematology-oncology/faculty/47520/chen-li/">Official Website</a></li>
       </ul>
   </div>
 </div>
