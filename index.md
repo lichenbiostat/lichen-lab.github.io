@@ -14,17 +14,30 @@ description: I am a tenure-track Assistant Professor of Medicine at Indiana Univ
 
 
 
+###  Biography
 <div class="container">
     <div class="row-fluid">
-            Li Chen, Principal Investigator<br/>
-            <a href="https://medicine.iu.edu/departments/internal-medicine/specialties/hematology-oncology/faculty/47520/chen-li/">Assistant Professor of Medicine</a><br/>
-	    Member, <a href="https://medicine.iu.edu/research/centers-institutes/computational-biology-bioinformatics/">Center for Computational Biology and Bioinformatics, Indiana University School of Medicine</a><br/>
+        <div class="span5">
+            Li Chen<br/>
+            <a href="https://medicine.iu.edu/departments/internal-medicine/specialties/hematology-oncology/faculty/47520/chen-li/">Assistant Professor of Medicine, Indiana University School of Medicine</a><br/>
+            <a href="https://medicine.iu.edu/research/centers-institutes/computational-biology-bioinformatics/">Member, Center for Computational Biology and Bioinformatics, Indiana University School of Medicine</a><br/>
+ 410 W. 10th Street, HS 5025 <br/>
+    Indianapolis, IN 46202<br/>
+            USA<br/><br/>
+            <div id="hide_email">
+            Email: <code>chen61@iu.edu</code><br/>
+            </div>
+        </div>
+
+        <div class="span2">
+        <a href="../assets/pics/Chen.jpg">
+            <img src="../assets/pics/Chen.jpg" height="200" width="150" title="Li Chen" alt="Li Chen"/>
+        </a>
+        </div>
     </div>
 </div>
 
 
-
-###  Biography
 
 I am a tenure-track Assistant Professor of Medicine and a member in Center for Computational Biology and Bioinformatics at Indiana University School of Medicine (IUSM). Before joining IUSM, I spent two years as an Assistant Professor in Harrison School of Pharmacy at Auburn University. I received a BS from China majoring in Bioinformatics in 2009; a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University in 2011 respectively. After that, I obtained my PhD in [Computer Science and Informatics](http://www.cs.emory.edu/site/home/) at Emory University in 2017. I also interned in CareerBuilder Data Science and Amazon Machine Learning in Summer 2014 and 2015 respectively.
 
@@ -57,29 +70,5 @@ Develop statistical methods for clustering single-cell data
 - **Transcriptomics**:
 Develop statistical methods for analyzing non-coding RNAs
 	- [Genomic feature annotation and differential expression analysis of circular RNAs](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz606/5543088). [<a href="https://github.com/lichen-lab/circMeta">Link to circMeta</a>]
-
-
-### Contact
-<div class="container">
-    <div class="row-fluid">
-        <div class="span5">
-            Li Chen<br/>
-            <a href="https://medicine.iu.edu/departments/internal-medicine/specialties/hematology-oncology/faculty/47520/chen-li/">Department of Medicine, Indiana University School of Medicine</a><br/>
-            <a href="https://medicine.iu.edu/research/centers-institutes/computational-biology-bioinformatics/">Center for Computational Biology and Bioinformatics, Indiana University School of Medicine</a><br/>
- 410 W. 10th Street, HS 5025 <br/>
-    Indianapolis, IN 46202<br/>
-            USA<br/><br/>
-            <div id="hide_email">
-            Email: <code>chen61@iu.edu</code><br/>
-            </div>
-        </div>
-
-        <div class="span2">
-        <a href="../assets/pics/Chen.jpg">
-            <img src="../assets/pics/Chen.jpg" height="200" width="150" title="Li Chen" alt="Li Chen"/>
-        </a>
-        </div>
-    </div>
-</div>
 
 
