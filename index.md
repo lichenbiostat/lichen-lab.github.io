@@ -19,7 +19,7 @@ description: I am a tenure-track Assistant Professor of Medicine at Indiana Univ
     <div class="row-fluid">
         <div class="span5">
             Li Chen<br/>
-            <a href="https://medicine.iu.edu/departments/internal-medicine/specialties/hematology-oncology/faculty/47520/chen-li/">Assistant Professor of Medicine, Indiana University School of Medicine</a><br/>
+            <a href="https://medicine.iu.edu/departments/internal-medicine/specialties/hematology-oncology/faculty/47520/chen-li/">Assistant Professor of Medicine</a><br/>
             <a href="https://medicine.iu.edu/research/centers-institutes/computational-biology-bioinformatics/">Member, Center for Computational Biology and Bioinformatics, Indiana University School of Medicine</a><br/>
  410 W. 10th Street, HS 5025 <br/>
     Indianapolis, IN 46202<br/>
