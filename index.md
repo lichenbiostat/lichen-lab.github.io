@@ -23,7 +23,7 @@ description: I am a tenure-track Assistant Professor of Medicine at Indiana Univ
             <a href="https://medicine.iu.edu/research/centers-institutes/computational-biology-bioinformatics/">Member, Center for Computational Biology and Bioinformatics, Indiana University School of Medicine</a><br/>
  410 W. 10th Street, HS 5025 <br/>
     Indianapolis, IN 46202<br/>
-            USA<br/><br/>
+            USA<br/>
             <div id="hide_email">
             Email: <code>chen61@iu.edu</code><br/>
             </div>
@@ -31,12 +31,12 @@ description: I am a tenure-track Assistant Professor of Medicine at Indiana Univ
 
         <div class="span2">
         <a href="../assets/pics/Chen.jpg">
-            <img src="../assets/pics/Chen.jpg" height="200" width="150" title="Li Chen" alt="Li Chen"/>
+            <img src="../assets/pics/Chen.jpg" height="200" width="180" title="Li Chen" alt="Li Chen"/>
         </a>
         </div>
     </div>
 </div>
-
+<br/>
 
 
 I am a tenure-track Assistant Professor of Medicine and a member in Center for Computational Biology and Bioinformatics at Indiana University School of Medicine (IUSM). Before joining IUSM, I spent two years as an Assistant Professor in Harrison School of Pharmacy at Auburn University. I received a BS from China majoring in Bioinformatics in 2009; a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University in 2011 respectively. After that, I obtained my PhD in [Computer Science and Informatics](http://www.cs.emory.edu/site/home/) at Emory University in 2017. I also interned in CareerBuilder Data Science and Amazon Machine Learning in Summer 2014 and 2015 respectively.
