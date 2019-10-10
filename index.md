@@ -55,7 +55,7 @@ Develop statistical methods for clustering single-cell data
 	- [Clustering droplet-based single-cell transcriptomic data from population studies](https://www.nature.com/articles/s41467-019-09639-3). [<a href="https://github.com/lichen-lab/BAMMSC">Link to BAMMSC</a>]
 
 - **Transcriptomics**:
-Develop statistical methods for analyzing non-coding RNAs.
+Develop statistical methods for analyzing non-coding RNAs
 	- [Genomic feature annotation and differential expression analysis of circular RNAs](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz606/5543088). [<a href="https://github.com/lichen-lab/circMeta">Link to circMeta</a>]
 
 
