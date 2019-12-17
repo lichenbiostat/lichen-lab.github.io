@@ -19,6 +19,11 @@ description: Li Chen's publications
 **Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee; ^indicates (co-) first author	
 
 #### 2019
+Qin L, Xu Q, Li Z, **Chen L**, Li Y, Yang N, Liu Z, Guo J, Shen L, Allen GE, Chen C, Ma C, Wu H, Zhu X, Jin P, Tang B (2019)
+Ethnicity-specific and overlapping alterations of brain hydroxymethylome in Alzheimer’s disease
+[Human Molecular Genetics](https://academic.oup.com/hmg/advance-article-abstract/doi/10.1093/hmg/ddz273/5650471)
+<!-- * 30 * -->
+
 **Chen L<sup>&sect;</sup>**, Wang F, Bruggeman E, Li C<sup>&dagger;</sup>, Yao B<sup>&sect;</sup> (2019)
 circMeta: a unified computational framework for genomic feature annotation and differential expression analysis of circular RNAs
 [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz606/5543088)
