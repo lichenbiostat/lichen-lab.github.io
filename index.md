@@ -48,6 +48,7 @@ I am interested in data science research with its application in large-scale omi
 - **Epigenomics**: 
 Develop statistical methods and database for analyzing epigenomic data
 	- [Differential binding](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv094). [<a href="http://bioconductor.org/packages/devel/bioc/html/ChIPComp.html">Link to ChIPComp</a>]
+	- [TF regulatory module](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz975/5695705). [<a href="https://github.com/lichen-lab/tfLDA">Link to tfLDA</a>]
 	- [Database and web server](https://academic.oup.com/bioinformatics/article/27/10/1447/260530). [<a href="http://jilab.biostat.jhsph.edu/database/cgi-bin/hmChIP.pl">Link to hmChIP</a>]
 
 - **Genetics**:
