@@ -39,6 +39,9 @@ Here is a list of software I developed or co-developed.
 * <a name="circMeta"></a>[circMeta](https://github.com/lichen-lab/circMeta)
 :an R package for genomic feature annotation and differential expression analysis of circular RNAs
 
+* <a name="tfLDA"></a>[tfLDA](https://github.com/lichen-lab/tfLDA)
+:an R package for applying state-of-the-art topic models to multiple ChIP-Seq datasets to decipher the combinatorial binding events of multiple TFs
+
 ---
 
 ### Database
