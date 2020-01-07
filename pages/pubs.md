@@ -18,6 +18,13 @@ description: Li Chen's publications
 
 **Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee; ^indicates (co-) first author	
 
+#### 2020
+Yang G, Ma A, **Qin ZS<sup>&sect;</sup>**, **Chen L<sup>&sect;</sup>**(2020)
+Application of topic models to a compendium of ChIP-Seq datasets uncovers recurrent transcriptional regulatory modules
+[Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz975/5695705)
+[![tfLDA software](icons16/html-icon.png)](https://github.com/lichen-lab/tfLDA)
+<!-- * 31 * -->
+
 #### 2019
 Qin L, Xu Q, Li Z, **Chen L**, Li Y, Yang N, Liu Z, Guo J, Shen L, Allen GE, Chen C, Ma C, Wu H, Zhu X, Jin P, Tang B (2019)
 Ethnicity-specific and overlapping alterations of brain hydroxymethylome in Alzheimer’s disease
