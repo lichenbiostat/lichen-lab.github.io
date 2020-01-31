@@ -19,7 +19,11 @@ description: Li Chen's publications
 **Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee; ^indicates (co-) first author	
 
 #### 2020
-Yang G, Ma A, Qin ZS<sup>&sect;</sup>, **Chen L<sup>&sect;</sup>**(2020)
+
+Huo N, **Chen L**, Ullah Mishuk A, Li C, Hansen RA, Harris I, Kiptanui Z, Wang Z, Dutcher SK, Qian J (2020) Generic levothyroxine initiation and substitution among Medicare and Medicaid populations: a new user cohort study [Endocrine] (https://link.springer.com/article/10.1007%2Fs12020-020-02211-w)
+<!-- * 32 * -->
+
+Yang G, Ma A, Qin ZS<sup>&sect;</sup>, **Chen L<sup>&sect;</sup>** (2020)
 Application of topic models to a compendium of ChIP-Seq datasets uncovers recurrent transcriptional regulatory modules
 [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz975/5695705)
 [![tfLDA software](icons16/html-icon.png)](https://github.com/lichen-lab/tfLDA)
