@@ -28,8 +28,6 @@ description: I am a tenure-track Assistant Professor of Medicine at Indiana Univ
             Email: <code>chen61@iu.edu</code><br/>
             </div>
         </div>
-
-    </div>
 </div>
 <br/>
 
