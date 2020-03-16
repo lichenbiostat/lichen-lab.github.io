@@ -30,6 +30,7 @@ description: I am a tenure-track Assistant Professor of Medicine at Indiana Univ
         </div>
 </div>
 <br/>
+	</div>
 
 
 I am a tenure-track Assistant Professor of Medicine and a member in Center for Computational Biology and Bioinformatics at Indiana University School of Medicine (IUSM). I received a BS from China majoring in Bioinformatics in 2009; a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University in 2011 respectively. After that, I obtained my PhD in [Computer Science and Informatics](http://www.cs.emory.edu/site/home/) at Emory University in 2017. I also interned in CareerBuilder Data Science and Amazon Machine Learning in Summer 2014 and 2015 respectively.
