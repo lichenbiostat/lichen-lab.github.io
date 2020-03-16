@@ -7,7 +7,7 @@ description: I am a tenure-track Assistant Professor of Medicine at Indiana Univ
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="https://scholar.google.com/citations?user=Nk-yRrcAAAAJ&hl=en">Google Scholar</a></li>
-        <li><a href="https://medicine.iu.edu/departments/internal-medicine/specialties/hematology-oncology/faculty/47520/chen-li/">Official Website</a></li>
+        <li><a href="https://medicine.iu.edu/faculty/47520/chen-li">Official Website</a></li>
       </ul>
   </div>
 </div>
@@ -29,21 +29,16 @@ description: I am a tenure-track Assistant Professor of Medicine at Indiana Univ
             </div>
         </div>
 
-        <div class="span2">
-        <a href="../assets/pics/Chen.jpg">
-            <img src="../assets/pics/Chen.jpg" height="200" width="180" title="Li Chen" alt="Li Chen"/>
-        </a>
-        </div>
     </div>
 </div>
 <br/>
 
 
-I am a tenure-track Assistant Professor of Medicine and a member in Center for Computational Biology and Bioinformatics at Indiana University School of Medicine (IUSM). Before joining IUSM, I spent two years as an Assistant Professor in Harrison School of Pharmacy at Auburn University. I received a BS from China majoring in Bioinformatics in 2009; a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University in 2011 respectively. After that, I obtained my PhD in [Computer Science and Informatics](http://www.cs.emory.edu/site/home/) at Emory University in 2017. I also interned in CareerBuilder Data Science and Amazon Machine Learning in Summer 2014 and 2015 respectively.
+I am a tenure-track Assistant Professor of Medicine and a member in Center for Computational Biology and Bioinformatics at Indiana University School of Medicine (IUSM). I received a BS from China majoring in Bioinformatics in 2009; a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University in 2011 respectively. After that, I obtained my PhD in [Computer Science and Informatics](http://www.cs.emory.edu/site/home/) at Emory University in 2017. I also interned in CareerBuilder Data Science and Amazon Machine Learning in Summer 2014 and 2015 respectively.
 
 
 ### Research
-I am interested in data science research with its application in large-scale omics data. I am leading a small interdisciplinary data science group working on bioinformatics & biostatistics projects. My current research focuses on developing statistical and informatics methods for analyzing of large-scale omics data. Projects include but not limited to 
+I am interested in data science research with its application in large-scale omics data. My current research focuses on developing statistical and informatics methods for analyzing of large-scale omics data. Projects include but not limited to 
 
 - **Epigenomics**: 
 Develop statistical methods and database for analyzing epigenomic data
