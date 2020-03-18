@@ -35,22 +35,23 @@ Develop statistical methods and database for epigenomic data in differential bio
 
 - **Genetics**:
 Develop computational methods for annotating and predicting functional variants (GWAS SNPs, cis-eQTL SNVs) by utilizing large-scale multi-omics profiles. 
-	- [GWAS variant enrichment analysis](https://academic.oup.com/bioinformatics/article/32/8/1214/1744655). [<a href="http://bioconductor.org/packages/release/bioc/html/traseR.html">Link to traseR</a>]
-	- [Functional variant prediction](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1112-z). [<a href="https://sites.google.com/site/emorydivan/">Link to DIVAN</a>]; (https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty872/5126236). [<a href="https://github.com/lichen-lab/TIVAN">Link to TIVAN</a>]
+	- [GWAS variant enrichment analysis](https://academic.oup.com/bioinformatics/article/32/8/1214/1744655). [<a href="http://bioconductor.org/packages/release/bioc/html/traseR.html">traseR</a>]
+	- [Functional variant prediction](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1112-z). [<a href="https://sites.google.com/site/emorydivan/">DIVAN</a>]; (https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty872/5126236). [<a href="https://github.com/lichen-lab/TIVAN">TIVAN</a>]
 
 - **Metagenomics**:
 Develop statistical methods for predictive modeling disease status based on 16S rRNA sequencing microbiome data.
-	- [Normalization](https://peerj.com/articles/4600/). [<a href="https://github.com/lichen-lab/GMPR">Link to GMPR</a>]
-	- [Predictive modeling](https://academic.oup.com/bioinformatics/article/31/24/3991/197681). [<a href="https://cran.r-project.org/web/packages/glmgraph/index.html">Link to glmgraph</a>]
-; (https://www.frontiersin.org/articles/10.3389/fmicb.2018.03112/abstract). [<a href="https://github.com/lichen-lab/SICS">Link to SICS</a>]; [Predictive modeling using Generalized Linear Mixed Model](https://www.frontiersin.org/articles/10.3389/fmicb.2018.01391/abstract). [<a href="https://github.com/lichen-lab/glmmTree">Link to glmmTree</a>]
+	- [Normalization](https://peerj.com/articles/4600/). [<a href="https://github.com/lichen-lab/GMPR">GMPR</a>]
+	- [Power analysis](https://peerj.com/articles/4600/). [<a href="https://github.com/lichen-lab/powmic">powmic</a>]
+	- [Predictive modeling](https://academic.oup.com/bioinformatics/article/31/24/3991/197681). [<a href="https://cran.r-project.org/web/packages/glmgraph/index.html">glmgraph</a>]
+; (https://www.frontiersin.org/articles/10.3389/fmicb.2018.03112/abstract). [<a href="https://github.com/lichen-lab/SICS">SICS</a>]; (https://www.frontiersin.org/articles/10.3389/fmicb.2018.01391/abstract). [<a href="https://github.com/lichen-lab/glmmTree">glmmTree</a>]
 	
 - **Single-cell genomics**:
 Develop statistical methods for clustering single cell  data.
-	- [Clustering droplet-based single cell transcriptomic data from population studies](https://nature-research-under-consideration.nature.com/users/37265-nature-communications/posts/38057-bamm-sc-a-bayesian-mixture-model-for-clustering-droplet-based-single-cell-transcriptomic-data-from-population-studies). [<a href="https://github.com/lichen-lab/BAMMSC">Link to BAMMSC</a>]
+	- [Clustering droplet-based single cell transcriptomic data from population studies](https://nature-research-under-consideration.nature.com/users/37265-nature-communications/posts/38057-bamm-sc-a-bayesian-mixture-model-for-clustering-droplet-based-single-cell-transcriptomic-data-from-population-studies). [<a href="https://github.com/lichen-lab/BAMMSC">BAMMSC</a>]
 
 - **Transcriptomics**:
 Develop statistical methods for non-coding RNA.
-	- [Genomic feature annotation and differential expression analysis of circular RNAs](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz606/5543088). [<a href="https://github.com/lichen-lab/circMeta">Link to circMeta</a>]
+	- [Genomic feature annotation and differential expression analysis of circular RNAs](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz606/5543088). [<a href="https://github.com/lichen-lab/circMeta">circMeta</a>]
 
 
 
