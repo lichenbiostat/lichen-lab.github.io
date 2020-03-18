@@ -47,13 +47,14 @@ Develop statistical methods and database for analyzing epigenomic data
 
 - **Genetics**:
 Develop computational methods for annotating and analyzing functional variants (GWAS SNPs, cis-eQTL SNVs) by utilizing large-scale multi-omics profiles
-	- [GWAS variant enrichment analysis]. [<a href="https://academic.oup.com/bioinformatics/article/32/8/1214/1744655">traseR</a>]
-	- [Functional variant prediction]. [<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1112-z">DIVAN</a>; <a href="https://academic.oup.com/bioinformatics/article/35/9/1573/5126236">TIVAN</a>]
+	- GWAS variant enrichment analysis. [<a href="https://academic.oup.com/bioinformatics/article/32/8/1214/1744655">traseR</a>]
+	- Functional variant prediction. [<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1112-z">DIVAN</a>; <a href="https://academic.oup.com/bioinformatics/article/35/9/1573/5126236">TIVAN</a>]
 
 - **Metagenomics**:
 Develop statistical methods for analyzing microbiome data
-	- [Normalization]. [<a href="https://peerj.com/articles/4600/">GMPR</a>]
-	- [Predictive modeling].[<a href="https://academic.oup.com/bioinformatics/article/31/24/3991/197681">glmgraph</a>; <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2018.03112/full">SICS</a>; <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2018.01391/full">glmmTree</a>]
+	- Normalization. [<a href="https://peerj.com/articles/4600/">GMPR</a>]
+	- Power analysis. [<a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa197/5809526">powmic</a>]
+	- Predictive modeling.[<a href="https://academic.oup.com/bioinformatics/article/31/24/3991/197681">glmgraph</a>; <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2018.03112/full">SICS</a>; <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2018.01391/full">glmmTree</a>]
 	
 - **Single-cell genomics**:
 Develop statistical methods for clustering single-cell data
