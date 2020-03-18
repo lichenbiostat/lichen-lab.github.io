@@ -39,11 +39,12 @@ circMeta: a unified computational framework for genomic feature annotation and d
 [![circMeta software](icons16/html-icon.png)](https://github.com/lichen-lab/circMeta)
 <!-- * 30 * -->
 
-#### 2019
 Qin L, Xu Q, Li Z, **Chen L**, Li Y, Yang N, Liu Z, Guo J, Shen L, Allen GE, Chen C, Ma C, Wu H, Zhu X, Jin P, Tang B (2019)
 Ethnicity-specific and overlapping alterations of brain hydroxymethylome in Alzheimer’s disease
 [Human Molecular Genetics](https://academic.oup.com/hmg/advance-article-abstract/doi/10.1093/hmg/ddz273/5650471)
 <!-- * 29 * -->
+
+#### 2019
 
 Sun Z^, **Chen L^**, Xin H, Jiang Y, Huang Q, Cillo A, Tabib T, Kolls J, Bruno T, Lafyatis B, Vignali D, Chen K, Ding Y, Hu M, Chen W (2019).
 A Bayesian mixture model for clustering droplet-based single cell transcriptomic data from population studies
@@ -100,8 +101,6 @@ GMPR: A robust normalization method for zero-inflated count data with applicatio
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/29629248)
 [![GMPR software](icons16/html-icon.png)](https://github.com/jchen1981/GMPR)
 <!-- * 20 * -->
-
-
 
 
 #### 2017
