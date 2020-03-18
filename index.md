@@ -41,9 +41,9 @@ I am interested in data science research with its application in large-scale omi
 
 - **Epigenomics**: 
 Develop statistical methods and database for analyzing epigenomic data
-	- [Differential binding]. [<a href="https://academic.oup.com/bioinformatics/article/31/12/1889/214643">ChIPComp</a>]
-	- [TF regulatory module]. [<a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz975/5695705">tfLDA</a>]
-	- [Database and web server]. [<a href="https://academic.oup.com/bioinformatics/article/27/10/1447/260530">hmChIP</a>]
+	- Differential binding. [<a href="https://academic.oup.com/bioinformatics/article/31/12/1889/214643">ChIPComp</a>]
+	- TF regulatory module. [<a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz975/5695705">tfLDA</a>]
+	- Database and web server. [<a href="https://academic.oup.com/bioinformatics/article/27/10/1447/260530">hmChIP</a>]
 
 - **Genetics**:
 Develop computational methods for annotating and analyzing functional variants (GWAS SNPs, cis-eQTL SNVs) by utilizing large-scale multi-omics profiles
@@ -58,10 +58,10 @@ Develop statistical methods for analyzing microbiome data
 	
 - **Single-cell genomics**:
 Develop statistical methods for clustering single-cell data
-	- [Clustering droplet-based single-cell transcriptomic data from population studies].[<a href="https://www.nature.com/articles/s41467-019-09639-3">BAMMSC</a>]
+	- Clustering droplet-based single-cell transcriptomic data from population studies.[<a href="https://www.nature.com/articles/s41467-019-09639-3">BAMMSC</a>]
 
 - **Transcriptomics**:
 Develop statistical methods for analyzing non-coding RNAs
-	- [Genomic feature annotation and differential expression analysis of circular RNAs]. [<a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz606/5543088">circMeta</a>]
+	- Genomic feature annotation and differential expression analysis of circular RNAs. [<a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz606/5543088">circMeta</a>]
 
 
