@@ -19,7 +19,7 @@ description: I am a tenure-track Assistant Professor of Medicine at Indiana Univ
     <div class="row-fluid">
         <div class="span5">
             Li Chen<br/>
-            <a href="https://medicine.iu.edu/departments/internal-medicine/specialties/hematology-oncology/faculty/47520/chen-li/">Assistant Professor of Medicine</a><br/>
+            <a href="https://medicine.iu.edu/faculty/47520/chen-li">Assistant Professor of Medicine</a><br/>
             <a href="https://medicine.iu.edu/research/centers-institutes/computational-biology-bioinformatics/">Member, Center for Computational Biology and Bioinformatics, Indiana University School of Medicine</a><br/>
  410 W. 10th Street, HS 5025 <br/>
     Indianapolis, IN 46202<br/>
@@ -41,9 +41,9 @@ I am interested in data science research with its application in large-scale omi
 
 - **Epigenomics**: 
 Develop statistical methods and database for analyzing epigenomic data
-	- [Differential binding](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv094). [<a href="http://bioconductor.org/packages/devel/bioc/html/ChIPComp.html">Link to ChIPComp</a>]
-	- [TF regulatory module](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz975/5695705). [<a href="https://github.com/lichen-lab/tfLDA">Link to tfLDA</a>]
-	- [Database and web server](https://academic.oup.com/bioinformatics/article/27/10/1447/260530). [<a href="http://jilab.biostat.jhsph.edu/database/cgi-bin/hmChIP.pl">Link to hmChIP</a>]
+	- [Differential binding]. [<a href="https://academic.oup.com/bioinformatics/article/31/12/1889/214643">ChIPComp</a>]
+	- [TF regulatory module]. [<a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz975/5695705">tfLDA</a>]
+	- [Database and web server]. [<a href="https://academic.oup.com/bioinformatics/article/27/10/1447/260530">Link to hmChIP</a>]
 
 - **Genetics**:
 Develop computational methods for annotating and analyzing functional variants (GWAS SNPs, cis-eQTL SNVs) by utilizing large-scale multi-omics profiles
