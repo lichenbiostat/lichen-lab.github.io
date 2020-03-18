@@ -5,7 +5,7 @@ description: Li Chen's software
 ---
 
 
-Here is a list of software I developed or co-developed. 
+Here is a list of software I developed. 
 
 
 ### R CRAN/Bioconductor packages
@@ -41,6 +41,9 @@ Here is a list of software I developed or co-developed.
 
 * <a name="tfLDA"></a>[tfLDA](https://github.com/lichen-lab/tfLDA)
 :an R package for applying state-of-the-art topic models to multiple ChIP-Seq datasets to decipher the combinatorial binding events of multiple TFs
+
+* <a name="powmic"></a>[powmic](https://github.com/lichen-lab/powmic)
+:an R package for power assessment in microbiome case-control studies
 
 ---
 
