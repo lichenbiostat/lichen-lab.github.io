@@ -20,6 +20,10 @@ description: Li Chen's publications
 
 #### 2020
 
+**Chen L** (2020) powmic: an R package for power assessment in microbiome case-control studies [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa197/5809526)
+[![powmic software](icons16/html-icon.png)](https://github.com/lichen-lab/powmic)
+<!-- * 33 * -->
+
 Huo N, **Chen L**, Ullah Mishuk A, Li C, Hansen RA, Harris I, Kiptanui Z, Wang Z, Dutcher SK, Qian J (2020) Generic levothyroxine initiation and substitution among Medicare and Medicaid populations: a new user cohort study [Endocrine](https://link.springer.com/article/10.1007%2Fs12020-020-02211-w)
 <!-- * 32 * -->
 
@@ -29,16 +33,16 @@ Application of topic models to a compendium of ChIP-Seq datasets uncovers recurr
 [![tfLDA software](icons16/html-icon.png)](https://github.com/lichen-lab/tfLDA)
 <!-- * 31 * -->
 
-#### 2019
-Qin L, Xu Q, Li Z, **Chen L**, Li Y, Yang N, Liu Z, Guo J, Shen L, Allen GE, Chen C, Ma C, Wu H, Zhu X, Jin P, Tang B (2019)
-Ethnicity-specific and overlapping alterations of brain hydroxymethylome in Alzheimer’s disease
-[Human Molecular Genetics](https://academic.oup.com/hmg/advance-article-abstract/doi/10.1093/hmg/ddz273/5650471)
-<!-- * 30 * -->
-
 **Chen L<sup>&sect;</sup>**, Wang F, Bruggeman E, Li C<sup>&dagger;</sup>, Yao B<sup>&sect;</sup> (2019)
 circMeta: a unified computational framework for genomic feature annotation and differential expression analysis of circular RNAs
 [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz606/5543088)
 [![circMeta software](icons16/html-icon.png)](https://github.com/lichen-lab/circMeta)
+<!-- * 30 * -->
+
+#### 2019
+Qin L, Xu Q, Li Z, **Chen L**, Li Y, Yang N, Liu Z, Guo J, Shen L, Allen GE, Chen C, Ma C, Wu H, Zhu X, Jin P, Tang B (2019)
+Ethnicity-specific and overlapping alterations of brain hydroxymethylome in Alzheimer’s disease
+[Human Molecular Genetics](https://academic.oup.com/hmg/advance-article-abstract/doi/10.1093/hmg/ddz273/5650471)
 <!-- * 29 * -->
 
 Sun Z^, **Chen L^**, Xin H, Jiang Y, Huang Q, Cillo A, Tabib T, Kolls J, Bruno T, Lafyatis B, Vignali D, Chen K, Ding Y, Hu M, Chen W (2019).
@@ -53,11 +57,16 @@ Destin: toolkit for single-cell analysis of chromatin accessibility
 [![Destin software](icons16/html-icon.png)](https://github.com/urrutiag/destin)
 <!-- * 27 * -->
 
-
 Hohmann L, Hastings T, Ha D, Garza K, Huston S, **Chen L**, Westrick S (2019). 
-Impact of a multi-component immunization intervention on pneumococcal and herpes zoster vaccinations: A randomized controlled trial of community pharmacies in 2 states. 
+Impact of a multi-component immunization intervention on pneumococcal and herpes zoster vaccinations: A randomized controlled trial of community pharmacies in 2 states 
 [Research in Social and Administrative Pharmacy](https://www.sciencedirect.com/science/article/pii/S1551741118307472)
 <!-- * 26 * -->
+
+**Chen L<sup>&sect;</sup>**, Wang Y<sup>&dagger;</sup>, Yao B, Mitra A, Wang X, Qin X (2019)
+TIVAN: Tissue-specific cis-eQTL single nucleotide variant annotation and prediction
+[Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty872/5126236)
+[![TIVAN software](icons16/html-icon.png)](https://github.com/lichen-lab/TIVAN)
+<!-- * 25 * -->
 
 #### 2018
 
@@ -65,20 +74,13 @@ Cheng Y, Sun M, **Chen L**, Li Y, Lin L, Yao B, Li Z, Wang Z, Chen J, Miao Z, Xi
 Ten-eleven translocation proteins modulate the response to environmental stress in mice
 [Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(18)31837-0)
 [![Data](icons16/data-icon.png)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE106220)
-<!-- * 25* -->
+<!-- * 24* -->
 
 Xiao J, **Chen L<sup>&sect;</sup>**, Johnson S, Zhang X, Chen J<sup>&sect;</sup> (2018).
 A phylogeny-regularized sparse regression model for predictive modeling of microbial community data
 [Frontiers in Microbiology](https://www.frontiersin.org/articles/10.3389/fmicb.2018.03112/abstract)
 [![SICS software](icons16/html-icon.png)](https://github.com/lichen-lab/SICS)
-<!-- * 24* -->
-
-**Chen L<sup>&sect;</sup>**, Wang Y<sup>&dagger;</sup>, Yao B, Mitra A, Wang X, Qin X (2018)
-TIVAN: Tissue-specific cis-eQTL single nucleotide variant annotation and prediction.
-[Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty872/5126236)
-[![TIVAN software](icons16/html-icon.png)](https://github.com/lichen-lab/TIVAN)
-<!-- * 23 * -->
-
+<!-- * 23* -->
 
 Yao B, Li Y, Wang Z, **Chen L**, Poidevin M, Zhang C, Lin L, Wang F, Bao H, Jiao B, Lim J, Cheng Y, Huang L, Phillips BL, Xu T, Duan R, Moberg K, Wu H, Jin P (2018). 
 Active N6-Methyladenine Demethylation by DMAD Regulates Gene Expression by Coordinating with Polycomb Protein in Neurons
