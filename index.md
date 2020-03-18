@@ -47,8 +47,8 @@ Develop statistical methods and database for analyzing epigenomic data
 
 - **Genetics**:
 Develop computational methods for annotating and analyzing functional variants (GWAS SNPs, cis-eQTL SNVs) by utilizing large-scale multi-omics profiles
-	- [GWAS variant enrichment analysis]. [<a href="https://academic.oup.com/bioinformatics/article/32/8/1214/1744655">Link to traseR</a>]
-	- [Functional variant prediction]. [<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1112-z">Link to DIVAN</a>]; [<a href="https://academic.oup.com/bioinformatics/article/35/9/1573/5126236">TIVAN</a>]
+	- [GWAS variant enrichment analysis]. [<a href="https://academic.oup.com/bioinformatics/article/32/8/1214/1744655">traseR</a>]
+	- [Functional variant prediction]. [<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1112-z">DIVAN</a>; <a href="https://academic.oup.com/bioinformatics/article/35/9/1573/5126236">TIVAN</a>]
 
 - **Metagenomics**:
 Develop statistical methods for analyzing microbiome data
