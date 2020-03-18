@@ -43,7 +43,7 @@ I am interested in data science research with its application in large-scale omi
 Develop statistical methods and database for analyzing epigenomic data
 	- [Differential binding]. [<a href="https://academic.oup.com/bioinformatics/article/31/12/1889/214643">ChIPComp</a>]
 	- [TF regulatory module]. [<a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz975/5695705">tfLDA</a>]
-	- [Database and web server]. [<a href="https://academic.oup.com/bioinformatics/article/27/10/1447/260530">Link to hmChIP</a>]
+	- [Database and web server]. [<a href="https://academic.oup.com/bioinformatics/article/27/10/1447/260530">hmChIP</a>]
 
 - **Genetics**:
 Develop computational methods for annotating and analyzing functional variants (GWAS SNPs, cis-eQTL SNVs) by utilizing large-scale multi-omics profiles
@@ -52,17 +52,15 @@ Develop computational methods for annotating and analyzing functional variants (
 
 - **Metagenomics**:
 Develop statistical methods for analyzing microbiome data
-	- [Normalization](https://peerj.com/articles/4600/). [<a href="https://github.com/lichen-lab/GMPR">Link to GMPR</a>]
-	- [Predictive modeling using Graph-Constraint Sparse Regression Model](https://academic.oup.com/bioinformatics/article/31/24/3991/197681). [<a href="https://cran.r-project.org/web/packages/glmgraph/index.html">Link to glmgraph</a>]
-	- [Predictive modeling using Graph-Constraint Sparse Regression Model with encouraging local smoothing](https://www.frontiersin.org/articles/10.3389/fmicb.2018.03112/abstract). [<a href="https://github.com/lichen-lab/SICS">Link to SICS</a>]
-	- [Predictive modeling using Generalized Linear Mixed Model](https://www.frontiersin.org/articles/10.3389/fmicb.2018.01391/abstract). [<a href="https://github.com/lichen-lab/glmmTree">Link to glmmTree</a>]
+	- [Normalization]. [<a href="https://peerj.com/articles/4600/">GMPR</a>]
+	- [Predictive modeling].[<a href="https://academic.oup.com/bioinformatics/article/31/24/3991/197681">glmgraph</a>; <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2018.03112/full">SICS</a>; <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2018.01391/full">glmmTree</a>]
 	
 - **Single-cell genomics**:
 Develop statistical methods for clustering single-cell data
-	- [Clustering droplet-based single-cell transcriptomic data from population studies](https://www.nature.com/articles/s41467-019-09639-3). [<a href="https://github.com/lichen-lab/BAMMSC">Link to BAMMSC</a>]
+	- [Clustering droplet-based single-cell transcriptomic data from population studies].[<a href="https://www.nature.com/articles/s41467-019-09639-3">BAMMSC</a>]
 
 - **Transcriptomics**:
 Develop statistical methods for analyzing non-coding RNAs
-	- [Genomic feature annotation and differential expression analysis of circular RNAs](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz606/5543088). [<a href="https://github.com/lichen-lab/circMeta">Link to circMeta</a>]
+	- [Genomic feature annotation and differential expression analysis of circular RNAs]. [<a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz606/5543088">circMeta</a>]
 
 
