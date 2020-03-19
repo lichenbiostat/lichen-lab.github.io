@@ -11,13 +11,13 @@ Here is a list of software I developed.
 ### R CRAN/Bioconductor packages
 
 * <a name="ChIPComp"></a>[ChIPComp](http://bioconductor.org/packages/release/bioc/html/ChIPComp.html)
-: differential protein binding/histone modification analysis for ChIP-seq data.
+: differential protein binding/histone modification analysis for ChIP-seq data
 
 * <a name="traseR"></a>[traseR](http://bioconductor.org/packages/release/bioc/html/traseR.html)
-: disease/traits enrichment analyses of trait-associated SNPs.
+: disease/traits enrichment analyses of trait-associated SNPs
 
 * <a name="glmgraph"></a>[glmgraph](https://cran.r-project.org/web/packages/glmgraph/index.html)
-: network/tree-based penalized regression method.
+: network/tree-based penalized regression method
 
 ---
 
