@@ -37,7 +37,7 @@ I am a tenure-track Assistant Professor of Medicine and a member in Center for C
 
 
 ### Research
-I am interested in data science research with its application in large-scale omics data. My current research focuses on developing statistical and informatics methods for analyzing of large-scale omics data. Projects include but not limited to 
+My lab's research focuses on developing statistical and informatics methods for analyzing of multi-omics data. Projects include but not limited to 
 
 - **Epigenomics**: 
 Develop statistical methods and database for analyzing epigenomic data
