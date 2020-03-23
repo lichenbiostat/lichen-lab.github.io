@@ -33,13 +33,13 @@ Application of topic models to a compendium of ChIP-Seq datasets uncovers recurr
 [![tfLDA software](icons16/html-icon.png)](https://github.com/lichen-lab/tfLDA)
 <!-- * 31 * -->
 
-**Chen L<sup>&sect;</sup>**, Wang F, Bruggeman E, Li C<sup>&dagger;</sup>, Yao B<sup>&sect;</sup> (2019)
+**Chen L<sup>&sect;</sup>**, Wang F, Bruggeman E, Li C<sup>&dagger;</sup>, Yao B<sup>&sect;</sup> (2020)
 circMeta: a unified computational framework for genomic feature annotation and differential expression analysis of circular RNAs
 [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz606/5543088)
 [![circMeta software](icons16/html-icon.png)](https://github.com/lichen-lab/circMeta)
 <!-- * 30 * -->
 
-Qin L, Xu Q, Li Z, **Chen L**, Li Y, Yang N, Liu Z, Guo J, Shen L, Allen GE, Chen C, Ma C, Wu H, Zhu X, Jin P, Tang B (2019)
+Qin L, Xu Q, Li Z, **Chen L**, Li Y, Yang N, Liu Z, Guo J, Shen L, Allen GE, Chen C, Ma C, Wu H, Zhu X, Jin P, Tang B (2020)
 Ethnicity-specific and overlapping alterations of brain hydroxymethylome in Alzheimer’s disease
 [Human Molecular Genetics](https://academic.oup.com/hmg/advance-article-abstract/doi/10.1093/hmg/ddz273/5650471)
 <!-- * 29 * -->
