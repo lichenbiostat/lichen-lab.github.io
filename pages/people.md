@@ -45,6 +45,11 @@ Chao Li, PhD candidate in Pharmaceutical Science, joint with [Dr. Jingjing Qian]
 Ye Wang, PhD candidate in Computer Science, joint with [Dr. Xiao Qin](http://www.eng.auburn.edu/~xqin/index.html)
 
 
+###  Alumni
+
+<li> <strong>Gaoxiang Li</strong>, MS in Computer Science, 2019. 
+<strong>Current position</strong>: Ph.D. student in the Department of Computer Science, Texas Tech University. 
+    
 
 
 
