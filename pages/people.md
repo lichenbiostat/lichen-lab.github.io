@@ -47,7 +47,7 @@ Ye Wang, PhD candidate in Computer Science, joint with [Dr. Xiao Qin](http://www
 
 ###  Alumni
 
-<li> <strong>Gaoxiang Li</strong>, MS in Computer Science, 2020. 
+<li> <strong>Gaoxiang Li</strong>, MS in Computer Science at Auburn University, 2020. 
 <strong>Current position</strong>: Ph.D. student in the Department of Computer Science, Texas Tech University. 
     
 
