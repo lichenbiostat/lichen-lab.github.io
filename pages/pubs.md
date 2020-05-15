@@ -20,7 +20,14 @@ description: Li Chen's publications
 
 #### 2020
 
-**Chen L** (2020) powmic: an R package for power assessment in microbiome case-control studies [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa197/5809526)
+Li C, **Chen L**, Huo N, Mishuk AU, Hansen RA, Harris I, Kiptanui Z, Wang Z, Qian J (2020) Generic escitalopram initiation and substitution among Medicare beneficiaries: A new user cohort study [Plos One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232226)
+<!-- * 35 * -->
+
+Wang Y<sup>&dagger;</sup>, Bhattacharya T, Jiang Y, Qin X, Wang Y, Liu Y, Saykin AJ, **Chen L<sup>&sect;</sup>** (2020) A novel deep learning method for predictive modeling of microbiome data [Briefings in Bioinformatics](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbaa073/5835556?redirectedFrom=fulltext)
+[![MDeep software](icons16/html-icon.png)](https://github.com/lichen-lab/MDeep)
+<!-- * 34 * -->
+
+**Chen L<sup>&sect;</sup>** (2020) powmic: an R package for power assessment in microbiome case-control studies [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa197/5809526)
 [![powmic software](icons16/html-icon.png)](https://github.com/lichen-lab/powmic)
 <!-- * 33 * -->
 
