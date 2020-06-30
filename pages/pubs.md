@@ -21,13 +21,13 @@ description: Li Chen's publications
 #### 2020
 
 **Chen L**, Li C, Huo N, Mishuk AU, Hansen RA, Harris I, Kiptanui Z, Qian J (2020) Oral Generic Tacrolimus Initiation and Substitution in The Medicaid
-Population: A New User Cohort Study (Accept) [Current Medical Research & Opinion]
+Population: A New User Cohort Study [Current Medical Research & Opinion]
 <!-- * 38 * -->
 
-Mei W, Jiang Z, Chen Y, **Chen L**, Sancar A, Jiang Y (2020) Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines (Accept) [Briefings in Bioinformatics]
+Mei W, Jiang Z, Chen Y, **Chen L**, Sancar A, Jiang Y (2020) Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines [Briefings in Bioinformatics]
 <!-- * 37 * -->
 
-Mitra AK, Kumar H, Ramakrishnan V, **Chen L**, Kumar S, Rajkumar SV, Van Ness B (2020) In vitro and ex vivo gene expression profiling reveals differential kinetic response of HSPs and UPR genes are associated with PI-resistance in multiple myeloma (Accept) [Blood Cancer Journal]
+Mitra AK, Kumar H, Ramakrishnan V, **Chen L**, Kumar S, Rajkumar SV, Van Ness B (2020) In vitro and ex vivo gene expression profiling reveals differential kinetic response of HSPs and UPR genes are associated with PI-resistance in multiple myeloma [Blood Cancer Journal]
 <!-- * 36 * -->
 
 Li C, **Chen L**, Huo N, Mishuk AU, Hansen RA, Harris I, Kiptanui Z, Wang Z, Qian J (2020) Generic escitalopram initiation and substitution among Medicare beneficiaries: A new user cohort study [Plos One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232226)
