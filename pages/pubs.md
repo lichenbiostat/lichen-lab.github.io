@@ -20,6 +20,16 @@ description: Li Chen's publications
 
 #### 2020
 
+**Chen L**, Li C, Huo N, Mishuk AU, Hansen RA, Harris I, Kiptanui Z, Qian J (2020) Oral Generic Tacrolimus Initiation and Substitution in The Medicaid
+Population: A New User Cohort Study [Current Medical Research & Opinion](Accept)
+<!-- * 38 * -->
+
+Mei W, Jiang Z, Chen Y, **Chen L**, Sancar A, Jiang Y (2020) Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines [Briefings in Bioinformatics](Accept)
+<!-- * 37 * -->
+
+Mitra AK, Kumar H, Ramakrishnan V, **Chen L**, Kumar S, Rajkumar SV, Van Ness B (2020) In vitro and ex vivo gene expression profiling reveals differential kinetic response of HSPs and UPR genes are associated with PI-resistance in multiple myeloma [Blood Cancer Journal](Accept)
+<!-- * 36 * -->
+
 Li C, **Chen L**, Huo N, Mishuk AU, Hansen RA, Harris I, Kiptanui Z, Wang Z, Qian J (2020) Generic escitalopram initiation and substitution among Medicare beneficiaries: A new user cohort study [Plos One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232226)
 <!-- * 35 * -->
 
@@ -70,7 +80,7 @@ Impact of a multi-component immunization intervention on pneumococcal and herpes
 [Research in Social and Administrative Pharmacy](https://www.sciencedirect.com/science/article/pii/S1551741118307472)
 <!-- * 26 * -->
 
-**Chen L<sup>&sect;</sup>**, Wang Y<sup>&dagger;</sup>, Yao B, Mitra A, Wang X, Qin X (2019)
+**Chen L<sup>&sect;</sup>**, Wang Y<sup>&dagger;</sup>, Yao B, Mitra AK, Wang X, Qin X (2019)
 TIVAN: Tissue-specific cis-eQTL single nucleotide variant annotation and prediction
 [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty872/5126236)
 [![TIVAN software](icons16/html-icon.png)](https://github.com/lichen-lab/TIVAN)
