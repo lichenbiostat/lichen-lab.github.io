@@ -21,7 +21,7 @@ description: Li Chen's publications
 #### 2020
 
 **Chen L**, Li C, Huo N, Mishuk AU, Hansen RA, Harris I, Kiptanui Z, Qian J (2020) Oral Generic Tacrolimus Initiation and Substitution in The Medicaid
-Population: A New User Cohort Study [Current Medical Research & Opinion]()
+Population: A New User Cohort Study [Current Medical Research & Opinion](https://www.tandfonline.com/doi/full/10.1080/03007995.2020.1793750)
 <!-- * 38 * -->
 
 Mei W, Jiang Z, Chen Y, **Chen L**, Sancar A, Jiang Y (2020) Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines [Briefings in Bioinformatics]()
