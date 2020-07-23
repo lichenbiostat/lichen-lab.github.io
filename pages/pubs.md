@@ -24,7 +24,7 @@ description: Li Chen's publications
 Population: A New User Cohort Study [Current Medical Research & Opinion](https://www.tandfonline.com/doi/full/10.1080/03007995.2020.1793750)
 <!-- * 38 * -->
 
-Mei W, Jiang Z, Chen Y, **Chen L**, Sancar A, Jiang Y (2020) Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines [Briefings in Bioinformatics]()
+Mei W, Jiang Z, Chen Y, **Chen L**, Sancar A, Jiang Y (2020) Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines [Briefings in Bioinformatics](https://academic.oup.com/bib/article/doi/10.1093/bib/bbz166/5699815)
 <!-- * 37 * -->
 
 Mitra AK, Kumar H, Ramakrishnan V, **Chen L**, Kumar S, Rajkumar SV, Van Ness B (2020) In vitro and ex vivo gene expression profiling reveals differential kinetic response of HSPs and UPR genes are associated with PI-resistance in multiple myeloma [Blood Cancer Journal]()
