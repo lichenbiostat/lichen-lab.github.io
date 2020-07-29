@@ -27,7 +27,7 @@ Population: A New User Cohort Study [Current Medical Research & Opinion](https:/
 Mei W, Jiang Z, Chen Y, **Chen L**, Sancar A, Jiang Y (2020) Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/doi/10.1093/bib/bbaa135/5872170?redirectedFrom=fulltext)
 <!-- * 37 * -->
 
-Mitra AK, Kumar H, Ramakrishnan V, **Chen L**, Kumar S, Rajkumar SV, Van Ness B (2020) In vitro and ex vivo gene expression profiling reveals differential kinetic response of HSPs and UPR genes are associated with PI-resistance in multiple myeloma [Blood Cancer Journal]()
+Mitra AK, Kumar H, Ramakrishnan V, **Chen L**, Kumar S, Rajkumar SV, Van Ness B (2020) In vitro and ex vivo gene expression profiling reveals differential kinetic response of HSPs and UPR genes are associated with PI-resistance in multiple myeloma [Blood Cancer Journal](https://www.nature.com/articles/s41408-020-00344-9)
 <!-- * 36 * -->
 
 Li C, **Chen L**, Huo N, Mishuk AU, Hansen RA, Harris I, Kiptanui Z, Wang Z, Qian J (2020) Generic escitalopram initiation and substitution among Medicare beneficiaries: A new user cohort study [Plos One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232226)
