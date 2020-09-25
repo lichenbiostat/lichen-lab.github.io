@@ -20,8 +20,10 @@ description: Li Chen's publications
 
 #### 2020
 
-**Chen L**, Li C, Huo N, Mishuk AU, Hansen RA, Harris I, Kiptanui Z, Qian J (2020) Oral Generic Tacrolimus Initiation and Substitution in The Medicaid
-Population: A New User Cohort Study [Current Medical Research & Opinion](https://www.tandfonline.com/doi/full/10.1080/03007995.2020.1793750)
+Mishuk AU, **Chen L**, Gaillard P, Westrick S, Hansen RA, Qian J (2020) National Trends in Prescription Proton Pump Inhibitors (PPI) Use and Expenditure in the U.S. in 2002-2017 [Journal of the American Pharmacists Association]
+<!-- * 39 * -->
+
+**Chen L**, Li C, Huo N, Mishuk AU, Hansen RA, Harris I, Kiptanui Z, Qian J (2020) Oral Generic Tacrolimus Initiation and Substitution in The Medicaid Population: A New User Cohort Study [Current Medical Research & Opinion](https://www.tandfonline.com/doi/full/10.1080/03007995.2020.1793750)
 <!-- * 38 * -->
 
 Mei W, Jiang Z, Chen Y, **Chen L**, Sancar A, Jiang Y (2020) Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/doi/10.1093/bib/bbaa135/5872170?redirectedFrom=fulltext)
