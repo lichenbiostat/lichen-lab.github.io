@@ -37,7 +37,7 @@ description: I am a tenure-track Assistant Professor of Medicine at Indiana Univ
 I am a tenure-track Assistant Professor of Medicine and a member in Center for Computational Biology and Bioinformatics at Indiana University School of Medicine (IUSM). I received a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University, and PhD in [Computer Science and Informatics](http://www.cs.emory.edu/site/home/) from Emory University. I also interned in CareerBuilder Data Science and Amazon Machine Learning.
 
 ### Openings
-We are actively looking for students. Interested candidates should directly email Dr.Chen with CVs.
+We are actively looking for students. Interested candidates should directly email Dr. Chen with CVs.
 
 
 ### Research
