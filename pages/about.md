@@ -23,6 +23,8 @@ Johns Hopkins University; another MSE in [Computer Science](https://www.cs.jhu.e
 Johns Hopkins University. I joined the department right after obtaining my PhD in [Computer Science and Informatics](http://www.mathcs.emory.edu/site/home/) at Emory University in 2017.
 I also interned in CareerBuilder Data Science and Amazon Machine Learning in Summer 2014 and 2015 respectively.
 
+### Recruitment
+We are actively looking for students. Interested candidates should directly email Dr.Chen with CVs.
 
 ### Research
 I mainly work on Bioinformatics and Computational Biology. To be specific, my research focuses on the development of statistical and informatics methods for the analysis of high-throughput genetic/genomic, epigenomics and other omics data,
