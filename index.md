@@ -58,7 +58,8 @@ Develop computational methods for annotating and analyzing functional variants (
 Develop statistical methods for analyzing microbiome data
 	- Normalization. [<a href="https://peerj.com/articles/4600/">GMPR</a>]
 	- Power analysis. [<a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa197/5809526">powmic</a>]
-	- Predictive modeling.[<a href="https://academic.oup.com/bioinformatics/article/31/24/3991/197681">glmgraph</a>; <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2018.03112/full">SICS</a>; <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2018.01391/full">glmmTree</a>]
+	- Predictive modeling.[<a href="https://academic.oup.com/bioinformatics/article/31/24/3991/197681">glmgraph</a>; <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2018.03112/full">SICS</a>; <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2018.01391/full">glmmTree</a>;
+	<a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbaa073/5835556?redirectedFrom=fulltext">MDeep</a>]
 	
 - **Single-cell genomics**:
 Develop statistical methods for clustering single-cell data
