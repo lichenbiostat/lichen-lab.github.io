@@ -45,6 +45,9 @@ Here is a list of software I developed.
 * <a name="powmic"></a>[powmic](https://github.com/lichen-lab/powmic)
 : power assessment in microbiome case-control studies
 
+* <a name="MDeep"></a>[powmic](https://github.com/lichen-lab/MDeep)
+: predictive modeling of microbiome data using a novel convolutional neural network
+
 ---
 
 ### Database
