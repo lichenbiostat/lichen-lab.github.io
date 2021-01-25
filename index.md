@@ -1,6 +1,6 @@
 ---
 layout: page
-description: I am a tenure-track Assistant Professor of Medicine at Indiana University School of Medicine. I am also a member at Center for Computational Biology and Bioinformatics.
+description: I am a tenure-track Assistant Professor of Biostatistics at Indiana University School of Medicine. I am also a member at Center for Computational Biology and Bioinformatics.
 ---
 
 <div class="navbar">
@@ -19,7 +19,7 @@ description: I am a tenure-track Assistant Professor of Medicine at Indiana Univ
     <div class="row-fluid">
         <div class="span5">
             Li Chen<br/>
-            <a href="https://medicine.iu.edu/faculty/47520/chen-li">Assistant Professor of Medicine</a><br/>
+            <a href="https://medicine.iu.edu/faculty/47520/chen-li">Assistant Professor of Biostatistics</a><br/>
             <a href="https://medicine.iu.edu/research/centers-institutes/computational-biology-bioinformatics/">Center for Computational Biology and Bioinformatics</a><br/>
 		 <a href="https://medicine.iu.edu/">Indiana University School of Medicine</a><br/>
  410 W. 10th Street, HS 5025 <br/>
@@ -34,7 +34,7 @@ description: I am a tenure-track Assistant Professor of Medicine at Indiana Univ
 	</div>
 
 
-I am a tenure-track Assistant Professor of Medicine and a member in Center for Computational Biology and Bioinformatics at Indiana University School of Medicine (IUSM). I received a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University, and PhD in [Computer Science and Informatics](http://www.cs.emory.edu/site/home/) from Emory University. I also interned in CareerBuilder Data Science and Amazon Machine Learning.
+I am a tenure-track Assistant Professor of Biostatistics and a member in Center for Computational Biology and Bioinformatics at Indiana University School of Medicine (IUSM). I received a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University, and PhD in [Computer Science and Informatics](http://www.cs.emory.edu/site/home/) from Emory University. I also interned in CareerBuilder Data Science and Amazon Machine Learning.
 
 ### Openings
 We are actively looking for students. Interested candidates should directly email Dr. Chen with CVs.
