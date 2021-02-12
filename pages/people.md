@@ -26,23 +26,28 @@ Li Chen, Principal Investigator
 ###  PhD students 
 
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/Chao.jpg">
-            <img src="../assets/pics/Chao.jpg" height="200" width="200" title="Chao Li" alt="Chao Li"/>
-        </a>
-        </div>
-    </div>
-</div>
+#<div class="container">
+ #   <div class="row-fluid">
+  #      <div class="span2">
+   #     <a href="../assets/pics/Chao.jpg">
+    #        <img src="../assets/pics/Chao.jpg" height="200" width="200" title="Chao Li" alt="Chao Li"/>
+     #   </a>
+      #  </div>
+    #</div>
+#</div>
 
-Chao Li, PhD candidate in Pharmaceutical Science, joint with [Dr. Jingjing Qian](http://www.auburn.edu/academic/pharmacy/directory/jingjing-qian.html)
+#Chao Li, PhD candidate in Pharmaceutical Science, joint with [Dr. Jingjing Qian](http://www.auburn.edu/academic/pharmacy/directory/jingjing-qian.html)
 
+Fengdi Zhao, PhD candidate in Biostatistics
 
 <br/>
 
 
-Ye Wang, PhD candidate in Computer Science, joint with [Dr. Xiao Qin](http://www.eng.auburn.edu/~xqin/index.html)
+###  MS students 
+
+Ziqian Bi, IUPUI MS in Computer Science
+
+Uma Maheswari Gollapudi, IUB MS in Computer Science
 
 
 ###  Alumni
@@ -50,6 +55,8 @@ Ye Wang, PhD candidate in Computer Science, joint with [Dr. Xiao Qin](http://www
 <li> <strong>Gaoxiang Li</strong>, MS in Computer Science at Auburn University, 2020. 
 <strong>Current position</strong>: Ph.D. student in the Department of Computer Science, Texas Tech University. 
     
+<li> <strong>Ye Wang</strong>, PhD in Computer Science at Auburn University, 2020. 
+<strong>Current position</strong>: Postdoc at Biogen
 
 
 
